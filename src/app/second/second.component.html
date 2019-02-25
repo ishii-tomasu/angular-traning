@@ -1,0 +1,37 @@
+<!-- second.component.html -->
+<form>
+  <input type="text" class="form-control" name="name" [(ngModel)]="name" placeholder="name" required>
+  <button type="submit" [disabled]="!name" (click)="click()">SUBMIT</button>
+</form>
+<div *ngIf="isClicked">
+  はじめまして！{{name}}さん！
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <td>NAME</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let member of members">
+      <td>{{member.id}}</td>
+      <td>{{member.name}}</td>
+    </tr>
+  </tbody>
+</table>
+
+<select name="fruit" [(ngModel)]="selectedFruit">
+  <option value="">--果物を選んでください--</option>
+  <option *ngFor="let item of fruits" [value]="item">{{item}}</option>
+</select>
+<ng-container *ngIf="selectedFruit">
+  <div *ngIf="selectedFruit == 'strawberry' || selectedFruit == 'apple'; then redFruit; else notRedFruit">
+      ここは表示されないよ！
+  </div>
+  <ng-template #notRedFruit>{{selectedFruit}}は赤い果物ではないです</ng-template>
+  <ng-template #redFruit>
+      <span class="text-danger">{{selectedFruit}}は赤い果物です</span>
+  </ng-template>
+</ng-container>

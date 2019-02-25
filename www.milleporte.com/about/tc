@@ -1,0 +1,559 @@
+<!DOCTYPE html><html class="   no-js" lang="ja">
+<head>
+	<meta charset="utf-8"></meta>
+	<meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+
+	<meta content="「今夜9時スタート。」ミレポルテは、最新の人気ファッションブランドが最大80%オフ《登録・年会費無料》。毎日違うセールが夜9時から始まります。キッズアイテム、インテリア、ワインもおトク。期間限定セール終了間近。バイヤーが国内外で買い付け。正規品、新品保証。" name="description"></meta>
+	
+	<meta content="MILLEPORTE,MILLE PORTE,ミレポルテ,ブランド,正規品,ファッション,バッグ,シューズ,ブーツ,サンダル,ジャケット,コート,ニット,ワンピース,ドレス,下着,ランジェリー,ジュエリー,アクセサリー,時計,ウォッチ,コスメ,ビューティー,サプリ,ホーム,ライフスタイル,ワイン,ラグジュアリー,スポーツアパレル,ブランドバッグ,ブランドシューズ,ブランドアクセサリー,ブランドキッズ,ブランズ・フォー・フレンズ,BRANDS for FRIENDS,ブランズフォーフレンズ,ブランドフォーフレンド,MILLEPORT,MILEPORTE,MILEPORT,有名ブランド,コマース,エクスクルージブ,オファー,最新コレクション" name="keyword"></meta>
+	
+
+	
+
+	
+
+	<meta content="518997186" property="fb:admins"></meta>
+	<meta content="335292516550203" property="fb:app_id"></meta>
+	
+	<title>利用規約 - MILLEPORTE/オンライン ブティック公式サイト</title>
+	
+	<script src="/assets/ctx/f2d8fc911497d3c/static/js/libs/modernizr.custom.js"></script>
+	<script crossorigin="anonymous" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script>
+	<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular-animate.js"></script>
+	<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular-messages.js"></script>
+
+	<script>var baseUrl = "/assets/ctx/f2d8fc911497d3c/static/js";
+		// Picture element HTML5 shiv
+		document.createElement( "picture" );
+		// Hacks for tapestry
+		if(typeof(Tapestry) === 'undefined'){
+			Tapestry = { };
+			Tapestry.pageLoaded = false;
+			Tapestry.waitForPage = function(event){
+				return Tapestry.pageLoaded;
+			};
+		}
+		var hideOnError = function(self){
+			self.onerror=null;
+			self.src="";
+			self.parentElement.innerText="";
+		};
+		var saleImgOnError = function(self){ 
+			self.onerror=null;
+			self.src='/assets/ctx/f2d8fc911497d3c/static/images/banner-defaults/no-image.gif';
+		};
+		var shopJSLoaded = false, domLoaded = false;
+		if(document.addEventListener){
+			document.addEventListener("DOMContentLoaded", function(event) { 
+				domLoaded = true;
+			});
+		}
+		// define waitSeconds above require script tag
+		// to override the default, until main.js loads
+		window.require = {
+			waitSeconds: 0
+		};
+	</script>
+
+	<script src="//www.google-analytics.com/cx/api.js"></script>
+	<script>
+		cxApi.setChosenVariation('1', '2ZouoOCxRt2MvyZtcisfpw')
+	</script>
+	
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	var _campId = 'n.a.';
+
+	_gaq.push(['_setDomainName', 'milleporte.com']);
+	_gaq.push(['_setAllowLinker', true]);
+	
+	if (_campId != 'n.a.') {
+	  _gaq.push(['_setAccount', 'UA-15011318-1'],
+		  	['_setCustomVar', 1, 'notanumber', '-1',     3],
+		  	['_setCustomVar', 2, 'promotion',  '2242',    3],
+		  	['_setCustomVar', 3, 'campaign', _campId, 3],
+		  	['_setCustomVar', 4, 'level', 0, 3]);
+	} else {
+	  _gaq.push(['_setAccount', 'UA-15011318-1'],
+		  	['_setCustomVar', 1, 'notanumber', '-1',     3],
+		  	['_setCustomVar', 2, 'promotion',  '2242',    3]);
+	}
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ?'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	
+	var GAPurchaser = ('false' === 'true');
+	var GALoggedInUser = ('false' === 'true');
+	var GAUserRank = "";
+</script>
+
+
+
+	<!-- Global site tag (gtag.js) - AdWords: 866286395 -->
+	<script src="https://www.googletagmanager.com/gtag/js?id=AW-866286395" async="true"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'AW-866286395');
+	</script>
+	
+		
+			<script src="/assets/ctx/f2d8fc911497d3c/static/js/libs/require/require.js" data-main="/assets/ctx/f2d8fc911497d3c/static/js/build/shop_2.1.js"></script>
+		
+	
+	
+	<link href="/assets/ctx/f2d8fc911497d3c/favicon.ico" rel="shortcut icon"></link>
+	<link href="/assets/ctx/f2d8fc911497d3c/static/images/apple-touch-icon-57x57.png" rel="apple-touch-icon"></link>
+	<link href="/assets/ctx/f2d8fc911497d3c/static/images/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon"></link>
+	<link href="/assets/ctx/f2d8fc911497d3c/static/images/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon"></link>
+	<link href="/assets/ctx/f2d8fc911497d3c/static/images/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon"></link>
+
+	
+		<link rel="stylesheet" href="/assets/ctx/f2d8fc911497d3c/static/css/shop_1.2.css" type="text/css"></link>
+	
+	
+	
+	
+	
+	
+</head>
+
+<body class="page-abouttc   marketing-campaigns  ">
+
+	<input value="" id="MAID" name="MAID" type="hidden"></input>
+	<input value="" id="account-id" type="hidden"></input>
+	
+	<div id="fb-root"></div>
+	
+
+	
+
+	<nav id="account-menu-pane">
+		<ul>
+			<li class="menu-group menu-group-user">
+				<a class="menu-group-header">Welcome 
+					
+				</a>
+				<ul>
+					
+						<li><a title="ログインする" href="/login?location=menu">ログイン</a></li>
+						<li><a title="新規登録" href="/signup?location=menu">新規登録</a></li>
+						<li><a title="ショッピング ガイドを見る" class="account-menu--accented-link" href="/shoppingguide/overview">ショッピング ガイド</a></li>
+					
+				</ul>
+			</li>
+
+			<li class="menu-group menu-group-shop">
+				<a class="menu-group-header">SHOP</a>
+					<div class="slider-container height-transition height-transition-hidden">
+						<ul>
+							
+								<li><a title="ホームへ戻る" href="/home">ホーム</a></li>
+							
+							
+								<li><a title="ALL SALES" href="/sale/all">ALL</a></li>
+							
+							<li><a title="WOMEN SALES" href="/sale/women">WOMEN</a></li>
+							<li><a title="MEN SALES" href="/sale/men">MEN</a></li>
+							<li><a title="KIDS SALES" href="/sale/kids">KIDS</a></li>
+							<li><a title="LIFESTYLE SALES" href="/sale/lifestyle">LIFESTYLE</a></li>
+							<li><a title="WINE AND GOURMET SALES" href="/sale/gourmet">WINE &amp; GOURMET</a></li>
+						</ul>
+					</div>
+			</li>
+
+			
+
+			<li class="menu-group support">
+				<a class="menu-group-header menu-group-support">SUPPORT</a>
+				<div class="slider-container height-transition height-transition-hidden">
+					<ul>
+						<li><a title="ヘルプ" href="/account/help">ヘルプ</a></li>
+						<li><a title="お問い合わせ" href="/account/contactus">お問い合わせ</a></li>
+					</ul>
+				</div>
+			</li>
+
+			<li class="menu-group menu-group-entertainment">
+				<a class="menu-group-header">ENTERTAINMENT</a>
+					<div class="slider-container height-transition height-transition-hidden">
+						<ul>
+							<li><a title="Go to Journal" target="_blank" href="http://journal.milleporte.com">MILLEPORTE Journal</a></li>
+							<li><a title="Go to Magazine" target="_blank" href="http://mag.milleporte.com/">MILLEPORTE ワイン通信</a></li>
+						</ul>
+					</div>
+			</li>
+
+			<li class="menu-group about">
+				<a class="menu-group-header menu-group-about">ABOUT US</a>
+				<div class="slider-container height-transition height-transition-hidden">
+					<ul>
+						<li><a title="MILLEPORTEについて" href="/about/milleporte">MILLEPORTEとは</a></li>
+						<li><a title="会社概要について" href="/about/company">会社概要</a></li>
+						<li><a title="人材募集を見る" href="/about/recruiting">人材募集</a></li>
+						<li><a title="利用規約を読む" href="/about/tc">利用規約</a></li>
+						<li><a title="プライバシーのルールを確認する" href="/about/privacy">プライバシー</a></li>
+						<li><a title="特商法を読む" href="/about/imprint">特商法</a></li>
+						<li><a title="Eメールについて" href="/about/email">Eメールについて</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+		<div class="account-menu-pane--login-buttons">
+			<a title="Facebookでログイン" target="_blank" href="//www.facebook.com/milleporte/">
+				<img src="/static/images/facebook-icon.png"/>
+			</a>
+			<a title="Twitterでログイン" target="_blank" href="//twitter.com/milleporte">
+				<img src="/static/images/twitter-icon.png"/>
+			</a>
+			<a title="Instagramでログイン" target="_blank" href="//www.instagram.com/milleporte/">
+				<img src="/static/images/instagram-icon.png"/>
+			</a>
+			
+		</div>
+	</nav>
+	
+	<div id="sliding-pane">
+		<div class="sliding-content"></div>
+	</div>
+
+	<div id="page">
+		
+		<header id="header">
+	<div class="header-content">
+		<div class="pure-g site-header">
+			
+				<nav class="pure-u-1-5 pure-u-md-1-3 align-left menu">
+					
+						<div class="align-left" id="account-menu">
+							<a class="マイアカウント" data-target="#account">
+								<span class="glyphicon glyphicon-menu-hamburger menu-icon"></span>
+								<span class="pure-u-0 pure-u-md menu-text"></span>
+							</a>
+							<a href="/about/recruiting" class="header-hiring-message">人材募集</a>
+						</div>
+					
+
+					
+					
+						<div class="header-previous-level-link home-link align-left pure-u-md-0 ">
+							<a href="/home">
+								<span class="glyphicon glyphicon-menu-left"></span>
+							</a>
+						</div>
+					
+					
+					
+				</nav>
+			
+
+			<div class="sitename align-center pure-u-3-5 pure-u-md-1-3">
+				<a title="MILLEPORTE" href="/home">
+					<picture>
+						<source srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png,        /assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo@2x.png 2x"></source>
+						<img srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png,         /assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo@2x.png 2x" src="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png" alt="MILLEPORTE" class="logo"/>
+					</picture>
+				</a>
+			</div>
+
+			
+					
+						<div class="login-menu pure-u-1-5 pure-u-md-1-3 align-right">
+							<a href="/signup?location=header" class="signup-link pure-u-0 pure-u-md">新規会員登録</a>
+							<a href="/login?location=header" class="login-link pure-u-md">ログイン</a>
+						</div>
+					
+				
+		</div>
+
+		
+			<div class="navigation-container pure-g">
+				<div class="navigation pure-u-1">
+					<div>
+
+	<nav class="menu pure-g" id="shop-menu">
+
+		<ul class="category-nav pure-u-1 h-scroll-md h-scroll-lg-none" id="category-nav">
+			
+				<li data-category="none" class="sale-category ga-none ">
+					<a title="All SALES" class="category-name none" href="/sale/all">All</a>
+					
+				</li>
+			
+				<li data-category="women" class="sale-category ga-women ">
+					<a title="Women SALES" class="category-name women" href="/sale/women">Women</a>
+					
+						<div data-sale-container="desktop-menu-WOMEN" class="category-submenu category-submenu-women">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+				<li data-category="men" class="sale-category ga-men ">
+					<a title="Men SALES" class="category-name men" href="/sale/men">Men</a>
+					
+						<div data-sale-container="desktop-menu-MEN" class="category-submenu category-submenu-men">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+				<li data-category="kids" class="sale-category ga-kids ">
+					<a title="Kids SALES" class="category-name kids" href="/sale/kids">Kids</a>
+					
+						<div data-sale-container="desktop-menu-KIDS" class="category-submenu category-submenu-kids">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+				<li data-category="lifestyle" class="sale-category ga-lifestyle ">
+					<a title="Lifestyle SALES" class="category-name lifestyle" href="/sale/lifestyle">Lifestyle</a>
+					
+						<div data-sale-container="desktop-menu-LIFESTYLE" class="category-submenu category-submenu-lifestyle">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+				<li data-category="gourmet" class="sale-category ga-gourmet ">
+					<a title="Wine &amp; Gourmet SALES" class="category-name gourmet" href="/sale/gourmet">Wine &amp; Gourmet</a>
+					
+						<div data-sale-container="desktop-menu-GOURMET" class="category-submenu category-submenu-gourmet">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+
+			
+		</ul>
+		<ul data-sale-container="mobile-menu-sales" class="pure-u-1 pure-u-md-0" id="sales-nav"></ul>
+		<ul data-prod-container="Mobile Product Navigation" class="pure-u-1 pure-u-md-0" id="products-nav"></ul>
+	</nav>
+</div>
+					
+				</div>
+			</div>
+		
+	</div>
+</header>
+		<div id="main">
+
+			
+			
+			<nav class="general-wrap"></nav>
+
+			
+	<div class="narrow-wrap mar-t--large mar-b--large">
+		<div id="content">
+			<h2 class="section-title">MILLEPORTE 利用規約</h2>
+	
+	
+			<p>本利用規約（以下、「本規約」といいます。）は、株式会社B4F（以下、「弊社」といいます。）が提供する本サイト上での商品の販売、広告の宣伝及び販売促進活動を含むサービスを、利用者が利用するに当たっての一切について適用するものです。
+			本サイトのご利用に先立ち、以下に掲載しました利用規約をご熟読いただきたくお願い申し上げます。なお、いったんご利用を開始されました後は、以下の本規約をご承諾いただいたものとみなします。</p>
+	
+			<h3 class="subsection-title">第1条（定義）</h3>
+			<p>本規約において以下の用語は以下に定める意味を有するものとします。</p>
+				<ul>
+				<li>「本サイト」とは、弊社が運営・管理する「MILLEPORTE (ミレポルテ)」と称するウェブサイトをいいます。</li>
+				<li>「本メンバー」とは、本サイトの登録ユーザーをいいます。</li>
+				<li>「利用者」とは、本メンバー及び会員として登録せずに本サイトにアクセスする者をいいます。</li>
+				<li>「本販売」とは、商品の販売、広告宣伝及び販売促進活動を含む、弊社が本サイトを通じて本メンバーに提供するサービスをいいます。</li>
+			</ul>
+	
+			<h3 class="subsection-title">第2条（本メンバーとしての登録方法）</h3>
+			<ul>
+				<li>本メンバーとしての登録を希望する者は、本規約を承諾していただいた上で、本サイト上の入会登録画面において個人情報及びその他必要な情報を入力して登録の申し込みをするものとし、弊社が登録を承諾した時点で本メンバーとして登録されます。</li>
+				<li>未成年者が本メンバーとしての登録を希望する場合は、保護者の同意の上、登録をするものとします。</li>
+				<li>本メンバーが退会する場合には、本サイト上の退会登録画面において、随時退会の手続を行うことができるものとします。</li>
+				<li>本メンバーは、友人・知人を本サイトへ招待することができます。本メンバーは、本サイトの紹介画面において友人・知人のメールアドレスを直接入力するものとし、弊社は入力されたメールアドレス宛に招待メールを送信するものとします。</li>
+			</ul>
+			<h3 class="subsection-title">第3条（本規約の範囲・変更）</h3>
+			<ul>
+				<li>本規約以外に、弊社がインターネットで提供する個別サービス毎に規定される個別規定、弊社がその都度別途ご案内する追加規定、及び今後にご提供する新サービスごとに規定する個別規定等も名目の如何にかかわらず、本規約の一部を構成するものとします。</li>
+				<li>本規約と個別規定または追加規定等が異なる場合には、個別規定又は追加規定等の定めが優先して適用されるものとします。</li>
+				<li>弊社は、予告なしに本規約を変更することができます。この場合、本サイトが提供するサービスの利用条件は、変更後の利用規約に基づくものとします。変更の際、利用者に個別にご連絡することは致しかねますので、本サイトをご利用の都度、本規約を必ずご確認下さいますようお願いいたします。変更後の利用規約は、弊社が別途定める場合を除いて、本サイトにおいて表示された時点より、効力を生じるものとします。</li>
+			</ul>
+			<h3 class="subsection-title">第4条（禁止事項）</h3>
+			<p>本サイトの利用に際して、次の各号の行為を行うことを禁止します。</p>
+			<ul>
+				<li>弊社、他の本メンバー、利用者その他の第三者の権利、利益、名誉などを損ねること</li>
+				<li>当初より支払う意思がないにもかかわらず注文するなど真に購入する意思なく商品を注文すること、他人になりすまして取引を行うこと、虚偽の情報を入力すること、その他の不正行為を行うこと</li>
+				<li>法令に違反すること</li>
+				<li>弊社が定める各種規約に違反すること</li>
+				<li>その他、弊社が不適当と認める行為</li>
+			</ul>
+	
+			<h3 class="subsection-title">第5条（売買契約の成立）</h3>
+			<p>本メンバーは、弊社が指定する方法に従って、本サイトにおいて掲載されている商品（以下、「本商品」といいます。）の購入申込みをするものとし、申込みの有効期限は、本商品販売期間終了日時までとします。弊社が、申込みに対する承諾の電子メールを本メンバー宛に発信した時点で、当該商品にかかる売買契約は成立するものとします。</p>
+	
+			<h3 class="subsection-title">第6条（支払い）</h3>
+			<ul>
+				<li>本商品の代金（送料等を含む）の支払は、クレジットカード決済、PayPal(ペイパル）決済、または代金引換（商品代引）決済のいずれかの方法によるものとします。</li>
+				<li>代金の支払期限は、次の各号に掲げるとおりとします。<br/>
+	
+				<ol type="1">
+					<li class="decimal">クレジットカード決済の場合：本商品購入の申込時に、弊社指定の方法にてお支払いください。但し、クレジットカード会社が本メンバーの支払いを受領しない場合は、本商品の申込は、即時に解除されるものとします。</li>
+					<li class="decimal">PayPal(ペイパル）決済の場合：本商品購入の申込時に、PayPal（ペイパル）のサイトからお手続きをすることにより、お支払いください。但し、PayPal（ペイパル）にて支払いが完了しない場合は、本商品の申込は、即時に解除されるものとします。</li>
+					<li class="decimal">代金引換（商品代引）決済の場合：本商品到着時に、配送業者に代金をお支払いください。</li>
+				</ol>
+				</li>
+			</ul>
+			<h3 class="subsection-title">第7条（引渡し）</h3>
+			<p>お買い上げの商品は通常、本商品販売期間終了日より、5日前後に発送いたします。但し、個別に商品の発送日が指定されている場合、当該指定日を発送日といたします。<br/>
+			諸事情により発送日が変更される場合がございますことをご了承下さい。</p>
+	
+			<h3 class="subsection-title">第8条（返品等）</h3>
+			商品に欠陥がある場合には、当該欠陥がお買い上げの商品の引渡し前に発生したと弊社が認めた場合は、送料当方負担で返品を受け付けます。
+			商品に欠陥がない場合には、返品に応じません。但し、サイズ展開する商品の場合に限ってサイズが合わなかった場合は、使用前かつお届け時と同じ状態であり、商品到着日より8日以内（到着日含む）に限り返品に応じます（なお商品のサイズが合わなかった場合であっても、下着類（靴下を含み、色柄付きのTシャツを含まず。）、子供服、水着、サングラス、時計、アクセサリー・ジュエリー類、バッグならびに特別セール品については、返品に応じません。）この場合の送料は、お客様の負担とさせていただきます。
+			<h3 class="subsection-title">第9条（解除）</h3>
+			<p>次に掲げる場合、弊社は、本商品の売買契約を解除することができます。</p>
+			<ul>
+				<li>本メンバーが本規約に違反した場合</li>
+				<li>第6条第2項に定める期限までに、代金の支払いがない場合</li>
+				<li>お届先不明、長期不在等により本商品を配送することができない場合</li>
+				<li>仕入先での在庫欠品などにより、本商品を配送することができない場合</li>
+			</ul>
+			<h3 class="subsection-title">第10条（本販売の中断、停止）</h3>
+			<ul>
+				<li>弊社は、弊社の判断により、本販売のうち、全部または一部を適宜変更、中断又は中止できるものとします。</li>
+				<li>弊社は、本販売の変更、中断又は中止から生じる利用者又は第三者が被ったいかなる不利益、損害についても、理由を問わず一切の責任を負わないものとします。</li>
+			</ul>
+	
+			<h3 class="subsection-title">第11条（商品の価格）</h3>
+			<p>当サイトでは、正確な商品情報を表示するように最善の努力をしています。<br/>万一、商品価格に誤りがあった場合、次のように価格調整をさせて頂きます。</p>
+			<ul>
+				<li>商品の正しい価格が当サイトに表示されていた価格より低い場合。この場合は、低い方の価格で請求させて頂きます。</li>
+				<li>商品の正しい価格が当サイトに表示されていた価格より高い場合。この場合は、弊社の判断により、発送前にお客様にご連絡し、正しい価格をお知らせした上で、正しい価格で販売させて頂くか、ご注文をキャンセルさせて頂きます。</li>
+			</ul>
+			
+			<h3 class="subsection-title">第12条（著作権・商標）</h3>
+			<ul>
+				<li>このホームページ内のコンテンツ（文書、写真、イラスト、画像、図表、映像、音声、プログラム等）および電子メール等により発信・配信される情報は、弊社が保有し、各国の著作権法等により保護されています。したがって、許可なく複製、転用、再利用、再掲載、販売等の二次利用することは禁止されており、また、コンテンツの内容を変形、変更、加筆修正等することも一切認められておりません。</li>
+				<li>このホームページ上の製品名は、別途記載されていない限り、弊社が使用許諾を受けている商標です。これらの商標の使用は、許可された場合を除き、禁止されています。</li>
+				<li>前2項に違反することにより問題が発生した場合、利用者は、自己の責任と費用においてかかる問題を解決するとともに、弊社に何らの迷惑又は損害を与えないものとします。</li>
+			</ul>
+			<h3 class="subsection-title">第13条（リンクの扱いについて）</h3>
+			<p>利用者の利便性のためこのホームページは、弊社が管理していない第三者が維持管理するウェブサイトへのリンクを含んでいます。これらのリンクは利用者の便宜のためだけにあり、弊社は、これらのウェブサイトの利用や掲載商品、サービスなどを推奨するものではなく、リンク先のウェブサイトを管理・運営する第三者との間に必ずしも提携・協力などの特別な関係があることを意味するものではありません。同様に、このホームページは、弊社が管理していない第三者リンクからアクセスできます。弊社は、このホームページがリンクを設けている第三者のウェブサイトまたはこのホームページへリンクしている第三者のウェブサイトの内容については、一切責任を負いません。
+			</p>
+			<h3 class="subsection-title">第14条（賠償責任）</h3>
+			<ul>
+				<li>本販売の提供、遅滞、変更、中断、中止、停止、廃止、提供される情報等の流出もしくは消失による損害、その他本販売に関連して発生した本メンバー、利用者又は第三者の損害について、弊社は、弊社に債務不履行につき故意又は重大な過失がない限り、一切の責任を負わないものとします。但し、本販売を通じて登録した個人情報については別途定めるプライバシー・ポリシーによるものとします。</li>
+				<li>利用者が本販売の利用によって第三者に対して損害を与えた場合、利用者は、自己の責任と費用をもって解決し、弊社に損害を与えることのないものとします。利用者が、本規約に反した行為又は不正もしくは違法な行為によって弊社に損害を与えた場合、弊社は当該利用者に対して相応の損害賠償の請求ができるものとします。</li>
+			</ul>
+			<h3 class="subsection-title">第15条（プライバシー・ポリシー）</h3>
+			<p>弊社は、弊社が別途定めるプライバシー・ポリシーに従い、個人情報を取り扱います。
+			</p>
+			<h3 class="subsection-title">第16条（準拠法）</h3>
+			<p>本規約に関する事項は、日本法を準拠法として、それに基づいて解釈されるものとします。本規約に関わるすべての紛争については、東京地方裁判所を第一審の専属的管轄裁判所とするものとします。</p>
+	
+			<p>平成22年2月1日<br/>
+			平成23年8月10日改定<br/>
+			平成25年2月8日改定<br/>
+			平成30年8月9日改定
+			</p>
+	
+	
+		</div>
+	</div>
+
+		</div>
+
+		<footer id="footer">
+
+	<nav class="medium-wrap align-left pad-lg-l--small pad-lg-r--small">
+
+		<div class="nav nav-member">
+
+			<ul class="pure-g">
+				<li class="shop-footer-logo pure-u-1 pure-u-sm-2-3 pure-u-md-4-5 pure-u-lg-1-5 pad-b--large">
+					<a title="ホームへ戻る" href="/home">
+					<picture>
+						<source srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png,        /assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo@2x.png 2x"></source>
+						<img srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png,         /assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo@2x.png 2x" src="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png" alt="MILLEPORTE" class="milleporte-logo"/>
+					</picture>
+					</a>
+					<picture>
+						<source srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo.png,        /assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo_2x.png 2x"></source>
+						<img srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo.png,         /assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo_2x.png 2x" src="/assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo.png" alt="MILLEPORTE" class="b4f-logo"/>
+					</picture>
+				</li>
+				
+				<li class="corpo pure-u-1 pure-u-sm-1-2 pure-u-md-1-4 pure-u-lg-1-5">
+					<h2><a title="ホームへ戻る" rel="nofollow" href="/home">ホーム</a></h2>
+					<ul>
+						<li><a rel="nofollow" title="MILLEPORTEについて" href="/about/milleporte">MILLEPORTEとは</a></li>
+						<li><a rel="nofollow" title="会社概要について" href="/about/company">会社概要</a></li>
+						<li><a rel="nofollow" title="人材募集を見る" href="/about/recruiting">人材募集</a></li>
+						<li><a rel="nofollow" title="利用規約を読む" href="/about/tc">利用規約</a></li>
+						<li><a rel="nofollow" title="プライバシーのルールを確認する" href="/about/privacy">プライバシー</a></li>
+						<li><a rel="nofollow" title="特商法を読む" href="/about/imprint">特商法</a></li>
+						<li><a rel="nofollow" title="Eメールについて" href="/about/email">Eメールについて</a></li>
+					</ul>
+				</li>
+
+				
+					<li class="account pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-4  pure-u-lg-1-5 pad-t--large pad-sm-t--none">
+						<h2>アカウント</h2>
+						<ul>
+							<li><a title="ログインする" href="/login?location=footer">ログイン</a></li>
+							<li><a title="会員登録" href="/signup?location=footer">無料会員登録</a></li>
+						</ul>
+					</li>
+				
+				
+				
+				<li class="help-contact pure-u-1 pure-u-sm-1-2 pure-u-md-1-4 pure-u-lg-1-5 pad-t--large pad-md-t--none">
+					<h2><a href="/account/help">ヘルプ</a></h2>
+					<ul>
+						<li><a title="送料 配送のヘルプを見る" href="/account/help/shipping">送料 配送について</a></li>
+						<li><a title="お支払いのヘルプを見る" href="/account/help/payment">お支払いについて</a></li>
+						<li><a title="商品のヘルプを見る" href="/account/help/product">商品について</a></li>
+						<li><a title="返品のヘルプを見る" href="/account/help/returns">返品について</a></li>
+					</ul>
+					
+					
+				</li>
+				
+				<li class="social pure-u-1 pure-u-sm-1-2 pure-u-md-1-4  pure-u-lg-1-5 pad-t--large pad-md-t--none">
+					<h2>ミレポルテとつながろう</h2>
+					<ul>
+						<li><a title="Facebookページへ行きます" href="https://www.facebook.com/milleporte">Facebookページ</a></li>
+						<li><a title="Twitterページへ行きます" href="http://twitter.com/MILLEPORTE">Twitterページ</a></li>
+						<li><a title="Instagramページへ行きます" href="https://instagram.com/milleporte/">Instagram</a></li>
+					</ul>
+				</li>
+				
+				
+			</ul>
+		</div>
+		
+			<div class="copyright mar-t--large align-center">© 2019 株式会社B4F</div>
+		
+		
+	</nav>
+</footer>
+
+		<a id="backtotop" href="#top">ページの先頭へ</a>
+
+		
+		
+
+		
+		<aside class="overlay overlay--gray" id="general-overlay"><div class="spinner-container hidden"></div></aside>
+	</div>
+
+	
+	<!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WWQM8H"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WWQM8H');</script><!-- End Google Tag Manager -->
+</body>
+</html>

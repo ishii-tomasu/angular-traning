@@ -1,0 +1,504 @@
+<!DOCTYPE html><html class="   no-js" lang="ja">
+<head>
+	<meta charset="utf-8"></meta>
+	<meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+
+	<meta content="「今夜9時スタート。」ミレポルテは、最新の人気ファッションブランドが最大80%オフ《登録・年会費無料》。毎日違うセールが夜9時から始まります。キッズアイテム、インテリア、ワインもおトク。期間限定セール終了間近。バイヤーが国内外で買い付け。正規品、新品保証。" name="description"></meta>
+	
+	<meta content="MILLEPORTE,MILLE PORTE,ミレポルテ,ブランド,正規品,ファッション,バッグ,シューズ,ブーツ,サンダル,ジャケット,コート,ニット,ワンピース,ドレス,下着,ランジェリー,ジュエリー,アクセサリー,時計,ウォッチ,コスメ,ビューティー,サプリ,ホーム,ライフスタイル,ワイン,ラグジュアリー,スポーツアパレル,ブランドバッグ,ブランドシューズ,ブランドアクセサリー,ブランドキッズ,ブランズ・フォー・フレンズ,BRANDS for FRIENDS,ブランズフォーフレンズ,ブランドフォーフレンド,MILLEPORT,MILEPORTE,MILEPORT,有名ブランド,コマース,エクスクルージブ,オファー,最新コレクション" name="keyword"></meta>
+	
+
+	
+
+	
+
+	<meta content="518997186" property="fb:admins"></meta>
+	<meta content="335292516550203" property="fb:app_id"></meta>
+	
+	<title>Emailについて - MILLEPORTE/オンライン ブティック公式サイト</title>
+	
+	<script src="/assets/ctx/f2d8fc911497d3c/static/js/libs/modernizr.custom.js"></script>
+	<script crossorigin="anonymous" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script>
+	<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular-animate.js"></script>
+	<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular-messages.js"></script>
+
+	<script>var baseUrl = "/assets/ctx/f2d8fc911497d3c/static/js";
+		// Picture element HTML5 shiv
+		document.createElement( "picture" );
+		// Hacks for tapestry
+		if(typeof(Tapestry) === 'undefined'){
+			Tapestry = { };
+			Tapestry.pageLoaded = false;
+			Tapestry.waitForPage = function(event){
+				return Tapestry.pageLoaded;
+			};
+		}
+		var hideOnError = function(self){
+			self.onerror=null;
+			self.src="";
+			self.parentElement.innerText="";
+		};
+		var saleImgOnError = function(self){ 
+			self.onerror=null;
+			self.src='/assets/ctx/f2d8fc911497d3c/static/images/banner-defaults/no-image.gif';
+		};
+		var shopJSLoaded = false, domLoaded = false;
+		if(document.addEventListener){
+			document.addEventListener("DOMContentLoaded", function(event) { 
+				domLoaded = true;
+			});
+		}
+		// define waitSeconds above require script tag
+		// to override the default, until main.js loads
+		window.require = {
+			waitSeconds: 0
+		};
+	</script>
+
+	<script src="//www.google-analytics.com/cx/api.js"></script>
+	<script>
+		cxApi.setChosenVariation('1', '2ZouoOCxRt2MvyZtcisfpw')
+	</script>
+	
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	var _campId = 'n.a.';
+
+	_gaq.push(['_setDomainName', 'milleporte.com']);
+	_gaq.push(['_setAllowLinker', true]);
+	
+	if (_campId != 'n.a.') {
+	  _gaq.push(['_setAccount', 'UA-15011318-1'],
+		  	['_setCustomVar', 1, 'notanumber', '-1',     3],
+		  	['_setCustomVar', 2, 'promotion',  '2242',    3],
+		  	['_setCustomVar', 3, 'campaign', _campId, 3],
+		  	['_setCustomVar', 4, 'level', 0, 3]);
+	} else {
+	  _gaq.push(['_setAccount', 'UA-15011318-1'],
+		  	['_setCustomVar', 1, 'notanumber', '-1',     3],
+		  	['_setCustomVar', 2, 'promotion',  '2242',    3]);
+	}
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ?'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	
+	var GAPurchaser = ('false' === 'true');
+	var GALoggedInUser = ('false' === 'true');
+	var GAUserRank = "";
+</script>
+
+
+
+	<!-- Global site tag (gtag.js) - AdWords: 866286395 -->
+	<script src="https://www.googletagmanager.com/gtag/js?id=AW-866286395" async="true"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'AW-866286395');
+	</script>
+	
+		
+			<script src="/assets/ctx/f2d8fc911497d3c/static/js/libs/require/require.js" data-main="/assets/ctx/f2d8fc911497d3c/static/js/build/shop_2.1.js"></script>
+		
+	
+	
+	<link type="text/css" rel="stylesheet" href="/assets/ctx/f2d8fc911497d3c/static/css/pages/about-email.css"></link><link href="/assets/ctx/f2d8fc911497d3c/favicon.ico" rel="shortcut icon"></link>
+	<link href="/assets/ctx/f2d8fc911497d3c/static/images/apple-touch-icon-57x57.png" rel="apple-touch-icon"></link>
+	<link href="/assets/ctx/f2d8fc911497d3c/static/images/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon"></link>
+	<link href="/assets/ctx/f2d8fc911497d3c/static/images/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon"></link>
+	<link href="/assets/ctx/f2d8fc911497d3c/static/images/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon"></link>
+
+	
+		<link rel="stylesheet" href="/assets/ctx/f2d8fc911497d3c/static/css/shop_1.2.css" type="text/css"></link>
+	
+	
+	
+	
+	
+	
+</head>
+
+<body class="page-aboutemail   marketing-campaigns  ">
+
+	<input value="" id="MAID" name="MAID" type="hidden"></input>
+	<input value="" id="account-id" type="hidden"></input>
+	
+	<div id="fb-root"></div>
+	
+
+	
+
+	<nav id="account-menu-pane">
+		<ul>
+			<li class="menu-group menu-group-user">
+				<a class="menu-group-header">Welcome 
+					
+				</a>
+				<ul>
+					
+						<li><a title="ログインする" href="/login?location=menu">ログイン</a></li>
+						<li><a title="新規登録" href="/signup?location=menu">新規登録</a></li>
+						<li><a title="ショッピング ガイドを見る" class="account-menu--accented-link" href="/shoppingguide/overview">ショッピング ガイド</a></li>
+					
+				</ul>
+			</li>
+
+			<li class="menu-group menu-group-shop">
+				<a class="menu-group-header">SHOP</a>
+					<div class="slider-container height-transition height-transition-hidden">
+						<ul>
+							
+								<li><a title="ホームへ戻る" href="/home">ホーム</a></li>
+							
+							
+								<li><a title="ALL SALES" href="/sale/all">ALL</a></li>
+							
+							<li><a title="WOMEN SALES" href="/sale/women">WOMEN</a></li>
+							<li><a title="MEN SALES" href="/sale/men">MEN</a></li>
+							<li><a title="KIDS SALES" href="/sale/kids">KIDS</a></li>
+							<li><a title="LIFESTYLE SALES" href="/sale/lifestyle">LIFESTYLE</a></li>
+							<li><a title="WINE AND GOURMET SALES" href="/sale/gourmet">WINE &amp; GOURMET</a></li>
+						</ul>
+					</div>
+			</li>
+
+			
+
+			<li class="menu-group support">
+				<a class="menu-group-header menu-group-support">SUPPORT</a>
+				<div class="slider-container height-transition height-transition-hidden">
+					<ul>
+						<li><a title="ヘルプ" href="/account/help">ヘルプ</a></li>
+						<li><a title="お問い合わせ" href="/account/contactus">お問い合わせ</a></li>
+					</ul>
+				</div>
+			</li>
+
+			<li class="menu-group menu-group-entertainment">
+				<a class="menu-group-header">ENTERTAINMENT</a>
+					<div class="slider-container height-transition height-transition-hidden">
+						<ul>
+							<li><a title="Go to Journal" target="_blank" href="http://journal.milleporte.com">MILLEPORTE Journal</a></li>
+							<li><a title="Go to Magazine" target="_blank" href="http://mag.milleporte.com/">MILLEPORTE ワイン通信</a></li>
+						</ul>
+					</div>
+			</li>
+
+			<li class="menu-group about">
+				<a class="menu-group-header menu-group-about">ABOUT US</a>
+				<div class="slider-container height-transition height-transition-hidden">
+					<ul>
+						<li><a title="MILLEPORTEについて" href="/about/milleporte">MILLEPORTEとは</a></li>
+						<li><a title="会社概要について" href="/about/company">会社概要</a></li>
+						<li><a title="人材募集を見る" href="/about/recruiting">人材募集</a></li>
+						<li><a title="利用規約を読む" href="/about/tc">利用規約</a></li>
+						<li><a title="プライバシーのルールを確認する" href="/about/privacy">プライバシー</a></li>
+						<li><a title="特商法を読む" href="/about/imprint">特商法</a></li>
+						<li><a title="Eメールについて" href="/about/email">Eメールについて</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+		<div class="account-menu-pane--login-buttons">
+			<a title="Facebookでログイン" target="_blank" href="//www.facebook.com/milleporte/">
+				<img src="/static/images/facebook-icon.png"/>
+			</a>
+			<a title="Twitterでログイン" target="_blank" href="//twitter.com/milleporte">
+				<img src="/static/images/twitter-icon.png"/>
+			</a>
+			<a title="Instagramでログイン" target="_blank" href="//www.instagram.com/milleporte/">
+				<img src="/static/images/instagram-icon.png"/>
+			</a>
+			
+		</div>
+	</nav>
+	
+	<div id="sliding-pane">
+		<div class="sliding-content"></div>
+	</div>
+
+	<div id="page">
+		
+		<header id="header">
+	<div class="header-content">
+		<div class="pure-g site-header">
+			
+				<nav class="pure-u-1-5 pure-u-md-1-3 align-left menu">
+					
+						<div class="align-left" id="account-menu">
+							<a class="マイアカウント" data-target="#account">
+								<span class="glyphicon glyphicon-menu-hamburger menu-icon"></span>
+								<span class="pure-u-0 pure-u-md menu-text"></span>
+							</a>
+							<a href="/about/recruiting" class="header-hiring-message">人材募集</a>
+						</div>
+					
+
+					
+					
+						<div class="header-previous-level-link home-link align-left pure-u-md-0 ">
+							<a href="/home">
+								<span class="glyphicon glyphicon-menu-left"></span>
+							</a>
+						</div>
+					
+					
+					
+				</nav>
+			
+
+			<div class="sitename align-center pure-u-3-5 pure-u-md-1-3">
+				<a title="MILLEPORTE" href="/home">
+					<picture>
+						<source srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png,        /assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo@2x.png 2x"></source>
+						<img srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png,         /assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo@2x.png 2x" src="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png" alt="MILLEPORTE" class="logo"/>
+					</picture>
+				</a>
+			</div>
+
+			
+					
+						<div class="login-menu pure-u-1-5 pure-u-md-1-3 align-right">
+							<a href="/signup?location=header" class="signup-link pure-u-0 pure-u-md">新規会員登録</a>
+							<a href="/login?location=header" class="login-link pure-u-md">ログイン</a>
+						</div>
+					
+				
+		</div>
+
+		
+			<div class="navigation-container pure-g">
+				<div class="navigation pure-u-1">
+					<div>
+
+	<nav class="menu pure-g" id="shop-menu">
+
+		<ul class="category-nav pure-u-1 h-scroll-md h-scroll-lg-none" id="category-nav">
+			
+				<li data-category="none" class="sale-category ga-none ">
+					<a title="All SALES" class="category-name none" href="/sale/all">All</a>
+					
+				</li>
+			
+				<li data-category="women" class="sale-category ga-women ">
+					<a title="Women SALES" class="category-name women" href="/sale/women">Women</a>
+					
+						<div data-sale-container="desktop-menu-WOMEN" class="category-submenu category-submenu-women">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+				<li data-category="men" class="sale-category ga-men ">
+					<a title="Men SALES" class="category-name men" href="/sale/men">Men</a>
+					
+						<div data-sale-container="desktop-menu-MEN" class="category-submenu category-submenu-men">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+				<li data-category="kids" class="sale-category ga-kids ">
+					<a title="Kids SALES" class="category-name kids" href="/sale/kids">Kids</a>
+					
+						<div data-sale-container="desktop-menu-KIDS" class="category-submenu category-submenu-kids">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+				<li data-category="lifestyle" class="sale-category ga-lifestyle ">
+					<a title="Lifestyle SALES" class="category-name lifestyle" href="/sale/lifestyle">Lifestyle</a>
+					
+						<div data-sale-container="desktop-menu-LIFESTYLE" class="category-submenu category-submenu-lifestyle">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+				<li data-category="gourmet" class="sale-category ga-gourmet ">
+					<a title="Wine &amp; Gourmet SALES" class="category-name gourmet" href="/sale/gourmet">Wine &amp; Gourmet</a>
+					
+						<div data-sale-container="desktop-menu-GOURMET" class="category-submenu category-submenu-gourmet">
+							<!-- contents inserted dynamically -->
+						</div>
+					
+				</li>
+			
+
+			
+		</ul>
+		<ul data-sale-container="mobile-menu-sales" class="pure-u-1 pure-u-md-0" id="sales-nav"></ul>
+		<ul data-prod-container="Mobile Product Navigation" class="pure-u-1 pure-u-md-0" id="products-nav"></ul>
+	</nav>
+</div>
+					
+				</div>
+			</div>
+		
+	</div>
+</header>
+		<div id="main">
+
+			
+			
+			<nav class="general-wrap"></nav>
+
+			
+	<table cellspacing="0" cellpadding="0" border="0" width="100%">
+		<tbody>
+			<tr>
+				<td align="center">
+					<table style="max-width:800px;min-width:320px;border-collapse:collapse;margin:0;padding:0;line-height:2;" cellspacing="0" cellpadding="0" border="0">
+						<tbody>
+							<tr>
+								<td class="content">
+									<p style="max-width:600px;margin:10px 50px 0;padding:10px;text-align:left;">
+										お客さまへ
+									</p>
+									<p style="max-width:600px;margin:10px 50px 0;padding:10px;text-align:left;">
+										ミレポルテ（旧ブランズ・フォー・フレンズ）のエクスクルーシブなオファーを楽しんでいただけていますでしょうか？
+									</p>
+									<p style="max-width:600px;margin:10px 50px 0;padding:10px;text-align:left;">
+										サービス名がMILLEPORTEに変更して以来、弊社からニュースレターが届かなくなったとのご報告を多数いただいています。
+									</p>
+									<p style="max-width:600px;margin:10px 50px 0;padding:10px;text-align:left;">
+										ドメインが、『@brands4friends.jp』より、『@milleporte.com』に変更したため、弊社からのニュースレターがお客さまの迷惑メールフォルダに自動振り分けされている可能性があります。
+									</p>
+									<p style="max-width:600px;margin:10px 50px;padding:10px;text-align:left;">
+										大変お手数ですが、一度迷惑メールボックスをご確認くださいますようお願い申し上げます。
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+									<table id="row">
+										<tr>
+											<td align="center">
+												<ul style="margin:0;padding:0;list-style:none;">
+													<li class="collapse">
+														<img alt="旧メール（BRANDS for FRIENDS）" border="0" style="display:block;max-width:330px;margin-top:1em;" src="/assets/ctx/f2d8fc911497d3c/static/images/about/email/greeting_07.png"/>
+														<p style="font-size:0.75em;margin: 0 auto 1.5em;">旧メール送信ドメイン：brands4friends.jp</p>
+													</li>
+													<li class="collapse right">
+														<img alt="矢印" border="0" style="display:block;max-width:40px;margin:0;" src="/assets/ctx/f2d8fc911497d3c/static/images/about/email/greeting_arrow_08.png"/>
+													</li>
+													<li class="collapse down">
+														<img alt="矢印" border="0" style="display:block;max-width:330px;margin:0;" src="/assets/ctx/f2d8fc911497d3c/static/images/about/email/greeting_arrow_19.png"/>
+													</li>
+													<li class="collapse">
+														<img alt="新メール（MILLEPORTE）" border="0" style="display:block;max-width:330px;margin-top:1em;" src="/assets/ctx/f2d8fc911497d3c/static/images/about/email/greeting_09.png"/>
+														<p style="font-size:0.75em;margin: 0 auto 3em;">新メール送信ドメイン：milleporte.com</p>
+													</li>
+												</ul>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+		</div>
+
+		<footer id="footer">
+
+	<nav class="medium-wrap align-left pad-lg-l--small pad-lg-r--small">
+
+		<div class="nav nav-member">
+
+			<ul class="pure-g">
+				<li class="shop-footer-logo pure-u-1 pure-u-sm-2-3 pure-u-md-4-5 pure-u-lg-1-5 pad-b--large">
+					<a title="ホームへ戻る" href="/home">
+					<picture>
+						<source srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png,        /assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo@2x.png 2x"></source>
+						<img srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png,         /assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo@2x.png 2x" src="/assets/ctx/f2d8fc911497d3c/static/images/logo/milleporteLogo.png" alt="MILLEPORTE" class="milleporte-logo"/>
+					</picture>
+					</a>
+					<picture>
+						<source srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo.png,        /assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo_2x.png 2x"></source>
+						<img srcset="/assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo.png,         /assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo_2x.png 2x" src="/assets/ctx/f2d8fc911497d3c/static/images/logo/b4f_logo.png" alt="MILLEPORTE" class="b4f-logo"/>
+					</picture>
+				</li>
+				
+				<li class="corpo pure-u-1 pure-u-sm-1-2 pure-u-md-1-4 pure-u-lg-1-5">
+					<h2><a title="ホームへ戻る" rel="nofollow" href="/home">ホーム</a></h2>
+					<ul>
+						<li><a rel="nofollow" title="MILLEPORTEについて" href="/about/milleporte">MILLEPORTEとは</a></li>
+						<li><a rel="nofollow" title="会社概要について" href="/about/company">会社概要</a></li>
+						<li><a rel="nofollow" title="人材募集を見る" href="/about/recruiting">人材募集</a></li>
+						<li><a rel="nofollow" title="利用規約を読む" href="/about/tc">利用規約</a></li>
+						<li><a rel="nofollow" title="プライバシーのルールを確認する" href="/about/privacy">プライバシー</a></li>
+						<li><a rel="nofollow" title="特商法を読む" href="/about/imprint">特商法</a></li>
+						<li><a rel="nofollow" title="Eメールについて" href="/about/email">Eメールについて</a></li>
+					</ul>
+				</li>
+
+				
+					<li class="account pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-4  pure-u-lg-1-5 pad-t--large pad-sm-t--none">
+						<h2>アカウント</h2>
+						<ul>
+							<li><a title="ログインする" href="/login?location=footer">ログイン</a></li>
+							<li><a title="会員登録" href="/signup?location=footer">無料会員登録</a></li>
+						</ul>
+					</li>
+				
+				
+				
+				<li class="help-contact pure-u-1 pure-u-sm-1-2 pure-u-md-1-4 pure-u-lg-1-5 pad-t--large pad-md-t--none">
+					<h2><a href="/account/help">ヘルプ</a></h2>
+					<ul>
+						<li><a title="送料 配送のヘルプを見る" href="/account/help/shipping">送料 配送について</a></li>
+						<li><a title="お支払いのヘルプを見る" href="/account/help/payment">お支払いについて</a></li>
+						<li><a title="商品のヘルプを見る" href="/account/help/product">商品について</a></li>
+						<li><a title="返品のヘルプを見る" href="/account/help/returns">返品について</a></li>
+					</ul>
+					
+					
+				</li>
+				
+				<li class="social pure-u-1 pure-u-sm-1-2 pure-u-md-1-4  pure-u-lg-1-5 pad-t--large pad-md-t--none">
+					<h2>ミレポルテとつながろう</h2>
+					<ul>
+						<li><a title="Facebookページへ行きます" href="https://www.facebook.com/milleporte">Facebookページ</a></li>
+						<li><a title="Twitterページへ行きます" href="http://twitter.com/MILLEPORTE">Twitterページ</a></li>
+						<li><a title="Instagramページへ行きます" href="https://instagram.com/milleporte/">Instagram</a></li>
+					</ul>
+				</li>
+				
+				
+			</ul>
+		</div>
+		
+			<div class="copyright mar-t--large align-center">© 2019 株式会社B4F</div>
+		
+		
+	</nav>
+</footer>
+
+		<a id="backtotop" href="#top">ページの先頭へ</a>
+
+		
+		
+
+		
+		<aside class="overlay overlay--gray" id="general-overlay"><div class="spinner-container hidden"></div></aside>
+	</div>
+
+	
+	<!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WWQM8H"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WWQM8H');</script><!-- End Google Tag Manager -->
+</body>
+</html>
